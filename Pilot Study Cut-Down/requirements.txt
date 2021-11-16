@@ -1,4 +1,0 @@
-Platypus
-Platypus-Opt
-pandas==1.0.3
-pywr==1.9.0
